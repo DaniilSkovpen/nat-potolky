@@ -11,14 +11,14 @@ const NavBar = () => {
  return (
   <nav className="navbar">
    <div className="navbar-container">
-    <NavLink to="/" style={{ cursor: 'pointer' }}><img src={logo} onClick={closeMobileMenu} className='navbar-logo' /></NavLink>
+    <NavLink to="/nat-potolky" style={{ cursor: 'pointer' }}><img src={logo} onClick={closeMobileMenu} className='navbar-logo' /></NavLink>
    </div>
    <div className='menu-icon' onClick={handleClick}>
     <i className={click ? 'fas fa-times' : 'fas fa-bars'} />
    </div>
    <ul className={click ? 'nav-menu active' : 'nav-menu'}>
     <li className='nav-item'>
-     <NavLink to='/' className='nav-links' onClick={closeMobileMenu}>
+     <NavLink to='/nat-potolky' className='nav-links' onClick={closeMobileMenu}>
       Головна
      </NavLink>
     </li>
