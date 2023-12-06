@@ -1,0 +1,37 @@
+.heroContainer {
+ background-image: url('../../../public/images/img2.jpg');
+ background-size: no-repeat;
+ background-size: cover;
+ background-position: center;
+ height: 100vh;
+ width: 100%;
+ display: flex;
+ flex-direction: column;
+ object-fit: contain;
+ z-index: -1;
+ box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, 0.6);
+}
+
+.p {
+ margin-left: 30px;
+ margin-top: 15px;
+ font-size: large;
+ align-items: normal;
+ font-style: italic;
+ color: azure;
+ font-weight: 700;
+ font-size: 20px;
+}
+
+.h1 {
+ font-size: 60px;
+ color: azure;
+}
+
+.ol {
+ margin-top: 20px;
+}
+
+.li {
+ margin-top: 25px;
+}
