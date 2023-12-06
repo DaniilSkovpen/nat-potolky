@@ -1,7 +1,7 @@
 {
   "name": "nat-potolky",
   "version": "0.1.0",
-  "homepage": "https://github.com/DaniilSkovpen/nat-potolky",
+  "homepage": "https://daniilskovpen.github.io/nat-potolky/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
