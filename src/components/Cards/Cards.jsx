@@ -10,17 +10,17 @@ function Cards() {
     <div className={mod.cards__wrapper}>
      <ul className={mod.cards__items}>
       <CardsItem src='images/img1.jpeg'
-       text='123'
+       text='Cтеля 1'
       />
      </ul>
      <ul className={mod.cards__items}>
       <CardsItem src='images/img3.jpg'
-       text='123'
+       text='Стеля 2'
       />
      </ul>
      <ul className={mod.cards__items}>
       <CardsItem src='images/img4.jpeg'
-       text='123'
+       text='Стеля 3'
       />
      </ul>
     </div>
