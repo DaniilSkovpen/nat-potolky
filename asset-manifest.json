@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/DaniilSkovpen/nat-potolky/static/css/main.3ccc54f7.css",
-    "main.js": "/DaniilSkovpen/nat-potolky/static/js/main.edab9f17.js",
-    "static/media/img2.jpg": "/DaniilSkovpen/nat-potolky/static/media/img2.1cb3efe4796aba37d90d.jpg",
-    "static/media/logo.jpg": "/DaniilSkovpen/nat-potolky/static/media/logo.3b7654a2b887c92ae177.jpg",
-    "index.html": "/DaniilSkovpen/nat-potolky/index.html",
-    "main.3ccc54f7.css.map": "/DaniilSkovpen/nat-potolky/static/css/main.3ccc54f7.css.map",
-    "main.edab9f17.js.map": "/DaniilSkovpen/nat-potolky/static/js/main.edab9f17.js.map"
+    "main.css": "/nat-potolky/static/css/main.f9f81812.css",
+    "main.js": "/nat-potolky/static/js/main.6cbefcf1.js",
+    "static/media/img2.jpg": "/nat-potolky/static/media/img2.1cb3efe4796aba37d90d.jpg",
+    "static/media/logo.jpg": "/nat-potolky/static/media/logo.3b7654a2b887c92ae177.jpg",
+    "index.html": "/nat-potolky/index.html",
+    "main.f9f81812.css.map": "/nat-potolky/static/css/main.f9f81812.css.map",
+    "main.6cbefcf1.js.map": "/nat-potolky/static/js/main.6cbefcf1.js.map"
   },
   "entrypoints": [
-    "static/css/main.3ccc54f7.css",
-    "static/js/main.edab9f17.js"
+    "static/css/main.f9f81812.css",
+    "static/js/main.6cbefcf1.js"
   ]
 }
