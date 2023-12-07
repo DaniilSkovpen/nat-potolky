@@ -6,9 +6,9 @@ function CardsItem(props) {
  return (
   <>
    <li className={mod.cards__item}>
-    <NavLink className={mod.cards__item__link}>
+    <NavLink className={mod.cards__item__link} to={props.path}>
      <figure className={mod.card__item__pic_wrap}>
-      <img src={props.src} alt="Cellar Image" className={mod.cards__item__img} />
+      <img src={props.src} alt="Ceiling Image" className={mod.cards__item__img} />
      </figure>
      <div className={mod.cards__item__info}>
       <h5 className={mod.cards__item__text}>
