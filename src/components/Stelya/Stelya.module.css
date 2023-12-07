@@ -1,0 +1,14 @@
+.img {
+ border: 1px solid #ddd;
+ border-radius: 4px;
+ padding: 5px;
+ width: 150px;
+ justify-self: center;
+}
+
+.cards__item__pic_wrap {
+ position: relative;
+ width: 100%;
+ padding-top: 70%;
+ overflow: hidden;
+}
