@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/nat-potolky/static/css/main.f9f81812.css",
-    "main.js": "/nat-potolky/static/js/main.9bede08e.js",
+    "main.js": "/nat-potolky/static/js/main.1ea2c61f.js",
     "static/media/img2.jpg": "/nat-potolky/static/media/img2.1cb3efe4796aba37d90d.jpg",
     "static/media/logo.jpg": "/nat-potolky/static/media/logo.3b7654a2b887c92ae177.jpg",
     "index.html": "/nat-potolky/index.html",
     "main.f9f81812.css.map": "/nat-potolky/static/css/main.f9f81812.css.map",
-    "main.9bede08e.js.map": "/nat-potolky/static/js/main.9bede08e.js.map"
+    "main.1ea2c61f.js.map": "/nat-potolky/static/js/main.1ea2c61f.js.map"
   },
   "entrypoints": [
     "static/css/main.f9f81812.css",
-    "static/js/main.9bede08e.js"
+    "static/js/main.1ea2c61f.js"
   ]
 }
